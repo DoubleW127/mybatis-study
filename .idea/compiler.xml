@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mybatis-DAOIMPL" />
         <module name="mybatis-resultMap" />
         <module name="mybatis-03-daoimpl" />
         <module name="mybatis-crud" />
@@ -14,5 +15,6 @@
         <module name="mybatis-design" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>
