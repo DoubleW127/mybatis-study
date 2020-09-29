@@ -8,8 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="mybatis-01" />
         <module name="mybatis-03-daoimpl" />
-        <module name="mybatis-02-annotation" />
         <module name="mybatis-crud" />
+        <module name="mybatis-02-annotation" />
         <module name="mybatis-design" />
       </profile>
     </annotationProcessing>
