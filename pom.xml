@@ -16,6 +16,8 @@
         <module>mybatis-crud</module>
         <module>mybatis-resultMap</module>
         <module>mybatis-DAOIMPL</module>
+        <module>mybatis-datasourceTx</module>
+        <module>mybatis-dynamicSql</module>
     </modules>
 
 
