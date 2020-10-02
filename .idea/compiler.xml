@@ -15,6 +15,7 @@
         <module name="mybatis-01" />
         <module name="mybatis-dynamicSql" />
         <module name="mybatis-onetomany" />
+        <module name="mybatis-many2many" />
         <module name="mybatis-design" />
       </profile>
     </annotationProcessing>

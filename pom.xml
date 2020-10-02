@@ -19,6 +19,7 @@
         <module>mybatis-datasourceTx</module>
         <module>mybatis-dynamicSql</module>
         <module>mybatis-onetomany</module>
+        <module>mybatis-many2many</module>
     </modules>
 
 
