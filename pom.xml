@@ -21,6 +21,9 @@
         <module>mybatis-onetomany</module>
         <module>mybatis-many2many</module>
         <module>mybatis-lazy</module>
+        <module>mybatis-cache</module>
+        <module>mybatis-annotation</module>
+        <module>mybatis-annotation-one2many</module>
     </modules>
 
 
